@@ -1,0 +1,12 @@
+=== VARIABLES ===
+
+Token Types:
+1 - IDENTIFIER
+2 - KEYWORD
+3 - EQ (equals)
+
+Declaring:
+
+      VAR              variable_name         =          <expr>
+       ^                     ^               ^
+    KEYWORD             IDENTIFIER         EQUALS
